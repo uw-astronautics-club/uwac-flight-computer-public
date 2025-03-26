@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "uwac-flight-computer")(type "KiCad")(uri "${KIPRJMOD}/uwac-flight-computer.pretty")(options "")(descr ""))
+)
